@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cell_color_selected">#a7a7a7</color>
+    <color name="cell_color_default">#d7d7d7</color>
+    <color name="cell_color_win">#bb0000</color>
+</resources>
